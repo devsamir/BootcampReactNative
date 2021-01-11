@@ -1,0 +1,5 @@
+Data Peserta Sanbercode Bootcamp React Native
+Nama            : Samir
+Email           : samir.batog@gmail.com
+Akun Github     : @devsamir
+Akun Telegram   : @samir batoq
